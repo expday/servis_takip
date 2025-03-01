@@ -17,6 +17,13 @@ Servis Takip Sistemi, kurum içi cihazların servis süreçlerini takip etmek i�
 
 ![Servis Takip Sistemi](screenshots/guncelle.png)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Servis Takip Sistemi](screenshots/excel.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## Özellikler
 
 - **Cihaz Kayıtları:** Cihaz bilgilerini ve servis durumlarını kaydetme
