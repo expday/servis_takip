@@ -9,9 +9,11 @@ Servis Takip Sistemi, kurum içi cihazların servis süreçlerini takip etmek i�
 
 ![Servis Takip Sistemi](screenshots/anauygulama.png)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Servis Takip Sistemi](screenshots/ayar.png)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Servis Takip Sistemi](screenshots/guncelle.png)
 
