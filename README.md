@@ -1,8 +1,8 @@
 # Servis Takip Sistemi
 
 -- Yapay Zeka araçları ile oluşturulmuştur.
-Grok
-Claude 3.7 Sonnet
+- Grok
+- Claude 3.7 Sonnet
 
 
 Servis Takip Sistemi, kurum içi cihazların servis süreçlerini takip etmek için geliştirilmiş bir masaüstü uygulamasıdır. Uygulama, cihazların servis gönderim ve dönüş tarihlerini, durumlarını, belgeleri ve diğer detayları kaydetmenize, güncellemenize ve sorgulamanıza olanak sağlar.
