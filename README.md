@@ -1,6 +1,6 @@
 # Servis Takip Sistemi
 
--- Yapay Zeka araçları ile oluşturulmuştur.
+-- Yapay Zeka araçları ile oluşturulmuştur(Hobi amaçlı, hatalar olabilir).
 - Grok
 - Claude 3.7 Sonnet
 
