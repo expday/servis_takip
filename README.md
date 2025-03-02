@@ -104,11 +104,3 @@ Sistem aşağıdaki verileri kaydeder:
 Uygulama ayarlarını düzenlemek için üst menüdeki "Ayarlar" seçeneğini kullanabilirsiniz:
 - Log kaydı etkinleştirme/devre dışı bırakma
 - Log dosya yolunu değiştirme
-
-## Destek ve İletişim
-
-tacettinkaradeniz{@}proton.me
-
-## Lisans
-
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
